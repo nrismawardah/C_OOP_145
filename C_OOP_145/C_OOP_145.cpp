@@ -26,6 +26,6 @@ public:
 		cin >> sks;
 	}
 	void tampil() {
-
+		cout << "Kode Matakuliah : " << kode;
 	}
 };
