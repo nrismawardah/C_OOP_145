@@ -31,3 +31,9 @@ public:
 		cout << "SKS : " << sks;
 	}
 };
+
+int main()
+{
+	Mahasiswa mhs1;
+	Matakuliah mk;
+}
